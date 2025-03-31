@@ -11,7 +11,7 @@ Minor in Math
 •	Experience with Microsoft Office, Python, C++, MATLAB, SQL <br />
 •	Effective Time Management and Attention To Detail <br />
 
-# WORK and VOLUNTEER EXPERIENCE
+# WORK AND VOLUNTEER EXPERIENCE
 ## WORK EXPERIENCE <br />
 ### Avacare Clinical Research Network (Mar 2024 - Present) <br />
 ### Research Assistant
