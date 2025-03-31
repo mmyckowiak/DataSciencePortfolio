@@ -40,20 +40,17 @@ Minor in Math
 •	Authored and published a peer-reviewed thesis on the findings of variable star research  <br />
 
 ## VOLUNTEER EXPERIENCE <br />
-### Provo United Special Olympics (Jan 2024 - Present)
-### Delegation Member
+### Delegation Member | Provo United Special Olympics (Jan 2024 - Present)
 •	Facilitates inclusion by supporting athletes and unified partners in diverse sports such as TopGolf, Basketball, Track and Field, Soccer, Bocce Ball, Flag Football, and Bowling. <br />
 •	Serves as a liaison between parents/guardians of Special Olympic athletes and coaches/volunteers to foster collaboration and clear communication. <br />
 •	Coordinates the organization of practices and tournaments to ensure optimal team preparedness and performance. <br />
 •	Inspires athletes and unified partners by promoting a positive atmosphere and encouraging individual growth in respective sports. <br />
 
-### Saratoga Springs Temple (Oct 2023 - Apr 2024)
-### Temple Worker
+### Temple Worker | Saratoga Springs Temple (Oct 2023 - Apr 2024)
 •	Supported temple operations by assisting with ceremonial preparations and ensuring a welcoming, reverent environment. <br />
 •	Facilitated worshippers' participation in temple ordinances with care, respect, and attention to detail. <br />
 
-### Intermountain Healthcare (Jul 2022 - Feb 2023)
-### Hospice Volunteer
+### Hospice Volunteer | Intermountain Healthcare (Jul 2022 - Feb 2023)
 • Provided compassionate care and companionship to patients nearing end-of-life. <br />
 
 
