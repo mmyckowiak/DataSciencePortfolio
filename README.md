@@ -11,11 +11,9 @@ Minor in Math
 •	Experience with Microsoft Office, Python, C++, MATLAB, SQL <br />
 •	Effective Time Management and Attention To Detail <br />
 
-<details>
-<summary> Work and Volunteer Experience <summary>
-
+# WORK and VOLUNTEER EXPERIENCE
 ## WORK EXPERIENCE <br />
-## Avacare Clinical Research Network (Mar 2024 - Present) <br />
+### Avacare Clinical Research Network (Mar 2024 - Present) <br />
 ### Research Assistant
 •	Developed and implemented effective recruitment strategies and outreach programs for difficult-to-enroll studies <br />
 •	Successfully increased the enrollment of a study from 50% to 140% of the site’s target goal  <br />
@@ -26,13 +24,13 @@ Minor in Math
 •	Experience with developing and executing 50+ queries in an EMR patient database <br />
 •	Mentored by a Data Research Scientist on data preprocessing, data visualization and data modeling techniques <br />
 
-## Revere Health (Jun 2023 – Mar 2024) 
+### Revere Health (Jun 2023 – Mar 2024) 
 ### Medical Scribe – Cardiology                                                                                                                 
 •	Thorough documentation of patient consultations and medical history <br />
 •	Demonstrated diligent attention to detail and excellent time management skills <br />
 •	Facilitated clear and effective communication with patients and medical professionals in a clinical environment <br />
 
-## Brigham Young University (Aug 2021 – Jun 2023) 
+### Brigham Young University (Aug 2021 – Jun 2023) 
 ### Research Assistant – Variable Stars and Active Galactic Nuclei                                                        
 •	Experience in data pre-processing, cleaning and exploratory data analysis for 10+ variable stars  <br />
 •	Identified inconsistencies in over 5+ years of published survey data in Excel and AstroImageJ <br />
@@ -53,7 +51,7 @@ Minor in Math
 •	Supported temple operations by assisting with ceremonial preparations and ensuring a welcoming, reverent environment. <br />
 •	Facilitated worshippers' participation in temple ordinances with care, respect, and attention to detail. <br />
 
-## Intermountain Healthcare (Jul 2022 - Feb 2023)
+### Intermountain Healthcare (Jul 2022 - Feb 2023)
 ### Hospice Volunteer
 • Provided compassionate care and companionship to patients nearing end-of-life. <br />
 
