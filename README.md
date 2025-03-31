@@ -13,7 +13,7 @@ Minor in Math
 
 
 # WORK/VOLUNTEER EXPERIENCE
-## WORK EXPERIENCE <br />
+## WORK EXPERIENCE 
 ### Avacare Clinical Research Network (Mar 2024 - Present) <br />
 ### Research Assistant
 •	Developed and implemented effective recruitment strategies and outreach programs for difficult-to-enroll studies <br />
