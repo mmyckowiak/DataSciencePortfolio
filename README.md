@@ -14,8 +14,7 @@ Minor in Math
 
 # WORK/VOLUNTEER EXPERIENCE
 ## WORK EXPERIENCE 
-### Avacare Clinical Research Network (Mar 2024 - Present) <br />
-**Research Assistant**
+### Research Assistant | Avacare Clinical Research Network (Mar 2024 - Present) <br />
 •	Developed and implemented effective recruitment strategies and outreach programs for difficult-to-enroll studies <br />
 •	Successfully increased the enrollment of a study from 50% to 140% of the site’s target goal  <br />
 •	Conducted over 800 meticulous chart reviews to enhance enrollment for challenging studies  <br />
@@ -25,14 +24,12 @@ Minor in Math
 •	Experience with developing and executing 50+ queries in an EMR patient database <br />
 •	Mentored by a Data Research Scientist on data preprocessing, data visualization and data modeling techniques <br />
 
-### Revere Health (Jun 2023 – Mar 2024) 
-### Medical Scribe – Cardiology                                                                                                                 
+### Medical Scribe | Revere Health (Jun 2023 – Mar 2024)                                                                                                                 
 •	Thorough documentation of patient consultations and medical history <br />
 •	Demonstrated diligent attention to detail and excellent time management skills <br />
 •	Facilitated clear and effective communication with patients and medical professionals in a clinical environment <br />
 
-### Brigham Young University (Aug 2021 – Jun 2023) 
-### Research Assistant – Variable Stars and Active Galactic Nuclei                                                        
+### Research Assistant | Brigham Young University (Aug 2021 – Jun 2023)                                                         
 •	Experience in data pre-processing, cleaning and exploratory data analysis for 10+ variable stars  <br />
 •	Identified inconsistencies in over 5+ years of published survey data in Excel and AstroImageJ <br />
 •	Analyzed the variability in stars and nuclei jets through Excel and AstroImageJ software programs <br />
