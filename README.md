@@ -14,7 +14,7 @@ Minor in Math
 <details>
 <summary> Work and Volunteer Experience <summary>
 
-## WORK EXPERIENCE
+## WORK EXPERIENCE <br />
 ## Avacare Clinical Research Network (Mar 2024 - Present) 
 ### Research Assistant
 •	Developed and implemented effective recruitment strategies and outreach programs for difficult-to-enroll studies <br />
@@ -40,7 +40,7 @@ Minor in Math
 •	Presented research findings on 10+ variable stars at the American Astronomical Association meetings in June 2022 and January 2023 <br />
 •	Authored and published a peer-reviewed thesis on the findings of variable star research  <br />
 
-## VOLUNTEER EXPERIENCE
+## VOLUNTEER EXPERIENCE <br />
 ### Provo United Special Olympics (Jan 2024 - Present)
 ### Delegation Member
 •	Facilitates inclusion by supporting athletes and unified partners in diverse sports such as TopGolf, Basketball, Track and Field, Soccer, Bocce Ball, Flag Football, and Bowling. <br />
@@ -58,7 +58,7 @@ Minor in Math
 • Provided compassionate care and companionship to patients nearing end-of-life. <br />
 
 
-# PROJECTS
+# PROJECTS <br />
 ## COVID-19 Symptoms Data Modeling
 The objective of this project is to develop a model that utilizes independent symptoms—such as breathing problems, fever, dry cough, sore throat, runny nose, headaches, fatigue, and gastrointestinal issues—to predict whether a patient has been diagnosed with COVID-19. To achieve this, we train and test three different models: Decision Tree, Random Forest, and Boosting Tree. Throughout the project, I will summarize each step, including visualization, pre-processing, splitting the data into training and testing sets, and feeding them into each model. Additionally, we use the feature_importances_ function to analyze the significance of each independent variable in predicting COVID-19 diagnoses for each model. Attached below is the .html file of my project. <br />
 
