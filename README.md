@@ -1,4 +1,20 @@
-# WORK EXPERIENCE
+
+# EDUCATION 
+## Brigham Young University (Aug 2019 - Dec 2023) 
+Bachelor of Science: Physics, Emphasis in Variable Stars and Active Galactic Nuclei Research  
+Minor in Math  
+
+## FUNCTIONAL SKILLS 
+•	Data Analysis, Visualization and Interpretation <br />
+•	Critical Thinking, Problem Solving and Decision Making <br />
+•	Strong Communication and Interpersonal Skills <br />
+•	Experience with Microsoft Office, Python, C++, MATLAB, SQL <br />
+•	Effective Time Management and Attention To Detail <br />
+
+<details>
+<summary> Work and Volunteer Experience <summary>
+
+## WORK EXPERIENCE
 ## Avacare Clinical Research Network (Mar 2024 - Present) 
 ### Research Assistant
 •	Developed and implemented effective recruitment strategies and outreach programs for difficult-to-enroll studies <br />
@@ -24,22 +40,7 @@
 •	Presented research findings on 10+ variable stars at the American Astronomical Association meetings in June 2022 and January 2023 <br />
 •	Authored and published a peer-reviewed thesis on the findings of variable star research  <br />
 
-
-# FUNCTIONAL SKILLS 
-•	Data Analysis, Visualization and Interpretation <br />
-•	Critical Thinking, Problem Solving and Decision Making <br />
-•	Strong Communication and Interpersonal Skills <br />
-•	Experience with Microsoft Office, Python, C++, MATLAB, SQL <br />
-•	Effective Time Management and Attention To Detail <br />
-
-
-# EDUCATION 
-## Brigham Young University (Aug 2019 - Dec 2023) 
-Bachelor of Science: Physics, Emphasis in Variable Stars and Active Galactic Nuclei Research  
-Minor in Math                                                     
-
-
-# VOLUNTEER EXPERIENCE
+## VOLUNTEER EXPERIENCE
 ## Provo United Special Olympics (Jan 2024 - Present)
 ### Delegation Member
 •	Facilitates inclusion by supporting athletes and unified partners in diverse sports such as TopGolf, Basketball, Track and Field, Soccer, Bocce Ball, Flag Football, and Bowling. <br />
@@ -55,6 +56,8 @@ Minor in Math
 ## Intermountain Healthcare (Jul 2022 - Feb 2023)
 ### Hospice Volunteer
 • Provided compassionate care and companionship to patients nearing end-of-life. <br />
+
+<details>
 
 
 # PROJECTS
