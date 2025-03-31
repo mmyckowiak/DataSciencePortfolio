@@ -24,17 +24,20 @@
 •	Presented research findings on 10+ variable stars at the American Astronomical Association meetings in June 2022 and January 2023 <br />
 •	Authored and published a peer-reviewed thesis on the findings of variable star research  <br />
 
+
 # FUNCTIONAL SKILLS 
 •	Data Analysis, Visualization and Interpretation <br />
 •	Critical Thinking, Problem Solving and Decision Making <br />
 •	Strong Communication and Interpersonal Skills <br />
 •	Experience with Microsoft Office, Python, C++, MATLAB, SQL <br />
 •	Effective Time Management and Attention To Detail <br />
- --- 
+
+
 # EDUCATION 
 ## Brigham Young University (Aug 2019 - Dec 2023) 
 Bachelor of Science: Physics, Emphasis in Variable Stars and Active Galactic Nuclei Research  
 Minor in Math                                                     
+
 
 # VOLUNTEER EXPERIENCE
 ## Provo United Special Olympics (Jan 2024 - Present)
@@ -48,17 +51,19 @@ Minor in Math
 ### Temple Worker
 •	Supported temple operations by assisting with ceremonial preparations and ensuring a welcoming, reverent environment. <br />
 •	Facilitated worshippers' participation in temple ordinances with care, respect, and attention to detail. <br />
-•	Collaborated with staff and volunteers to address needs and enhance temple services. <br />
 
-## Intermountain Healthcare ()
+## Intermountain Healthcare (Jul 2022 - Feb 2023)
 ### Hospice Volunteer
 • Provided compassionate care and companionship to patients nearing end-of-life. <br />
 
+
 # PROJECTS
 ## COVID Symptoms Data Modeling
-### [COVID-19 Symptoms Data Modeling](https://mmyckowiak.github.io/COVID-19_Symptoms/COVID19_Symptoms.html)
+The objective of this project is to develop a model that utilizes independent symptoms—such as breathing problems, fever, dry cough, sore throat, runny nose, headaches, fatigue, and gastrointestinal issues—to predict whether a patient has been diagnosed with COVID-19. To achieve this, we train and test three different models: Decision Tree, Random Forest, and Boosting Tree. Throughout the project, I will summarize each step, including visualization, pre-processing, splitting the data into training and testing sets, and feeding them into each model. Additionally, we use the feature_importances_ function to analyze the significance of each independent variable in predicting COVID-19 diagnoses for each model. Attched below is the .html file of my project. 
+[COVID-19 Symptoms Data Modeling](https://mmyckowiak.github.io/COVID-19_Symptoms/COVID19_Symptoms.html)
 
 
 ## Weather Forecasting with XGBRegression
-### [Historical Weather Modeling](https://mmyckowiak.github.io/HistoricalWeatherModeling/OremHistoricalData.html)
-## 
+The goal of this project is to develop a weather model that uses independent variables—such as sunshine duration, daylight duration, precipitation sum, precipitation hours, month, and year—to predict the average temperature for a given day. The historical data for this project was sourced from https://open-meteo.com/ and pertains to Orem, Utah, spanning the years 2005 to 2025. At each step, I provide a summary of the objectives and explain how these contribute to building a robust and generally accurate weather model. Attached below is the .html file of my project. 
+[Historical Weather Modeling](https://mmyckowiak.github.io/HistoricalWeatherModeling/OremHistoricalData.html)
+ 
