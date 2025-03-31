@@ -50,7 +50,8 @@ Minor in Math
 
 # PROJECTS
 ## COVID Symptoms Data Modeling
-### https://mmyckowiak.github.io/COVID-19_Symptoms/COVID19_Symptoms.html 
+### [COVID-19 Symptoms Data Modeling] (https://mmyckowiak.github.io/COVID-19_Symptoms/COVID19_Symptoms.html)
+
 
 ## Weather Forecasting with XGBRegression
 
