@@ -15,7 +15,7 @@ Minor in Math
 <summary> Work and Volunteer Experience <summary>
 
 ## WORK EXPERIENCE <br />
-## Avacare Clinical Research Network (Mar 2024 - Present) 
+## Avacare Clinical Research Network (Mar 2024 - Present) <br />
 ### Research Assistant
 •	Developed and implemented effective recruitment strategies and outreach programs for difficult-to-enroll studies <br />
 •	Successfully increased the enrollment of a study from 50% to 140% of the site’s target goal  <br />
@@ -59,6 +59,7 @@ Minor in Math
 
 
 # PROJECTS <br />
+
 ## COVID-19 Symptoms Data Modeling
 The objective of this project is to develop a model that utilizes independent symptoms—such as breathing problems, fever, dry cough, sore throat, runny nose, headaches, fatigue, and gastrointestinal issues—to predict whether a patient has been diagnosed with COVID-19. To achieve this, we train and test three different models: Decision Tree, Random Forest, and Boosting Tree. Throughout the project, I will summarize each step, including visualization, pre-processing, splitting the data into training and testing sets, and feeding them into each model. Additionally, we use the feature_importances_ function to analyze the significance of each independent variable in predicting COVID-19 diagnoses for each model. Attached below is the .html file of my project. <br />
 
