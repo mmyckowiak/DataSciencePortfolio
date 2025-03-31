@@ -30,7 +30,7 @@
 •	Strong Communication and Interpersonal Skills <br />
 •	Experience with Microsoft Office, Python, C++, MATLAB, SQL <br />
 •	Effective Time Management and Attention To Detail <br />
- 
+ --- 
 # EDUCATION 
 ## Brigham Young University (Aug 2019 - Dec 2023) 
 Bachelor of Science: Physics, Emphasis in Variable Stars and Active Galactic Nuclei Research  
