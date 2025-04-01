@@ -34,7 +34,7 @@ Minor in Math
 •	Identified inconsistencies in over 5+ years of published survey data in Excel and AstroImageJ <br />
 •	Analyzed the variability in stars and nuclei jets through Excel and AstroImageJ software programs <br />
 •	Presented research findings on 10+ variable stars at the American Astronomical Association meetings in June 2022 and January 2023 <br />
-•	Authored and published a peer-reviewed thesis on the findings of variable star research  <br />
+•	Authored and published a [peer-reviewed thesis](file:///C:/Users/mcken/Documents/New%20Folder/Final%20Senior%20Thesis.pdf) on the findings of variable star research  <br />
 
 ## VOLUNTEER EXPERIENCE <br />
 ### Delegation Member | Provo United Special Olympics (Jan 2024 - Present)
