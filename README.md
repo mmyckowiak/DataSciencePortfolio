@@ -1,7 +1,7 @@
 
 # EDUCATION 
 ## Brigham Young University (Aug 2019 - Dec 2023) 
-Bachelor of Science: Physics, Emphasis in Variable Stars and Active Galactic Nuclei Research  
+Bachelor of Science: Physics-Astronomy, Emphasis in Variable Stars and Active Galactic Nuclei Research  <br />
 Minor in Math  
 
 ## FUNCTIONAL SKILLS 
