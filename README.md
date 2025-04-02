@@ -67,4 +67,5 @@ The goal of this project is to develop a weather model that uses independent var
 # CERTIFICATES
 ## The Data Science Course: Complete Data Science Bootcamp 2025
 The Data Science Course 2025 equips you with essential skills: statistical analysis, Python (NumPy, pandas, matplotlib, Seaborn), advanced statistics, Tableau, machine learning (scikit-learn), and deep learning (TensorFlow). Gain hands-on experience in data pre-processing, linear/logistic regression, clustering, and factor analysis. Understand the mathematics behind machine learning and apply your skills to real-life business cases. Updated for recent AI developments. See certificate attached below. <br />
+
 [The Data Science Course: Complete Data Science Bootcamp 2025](The Data Science Bootcamp 2025 Certificate.pdf) 
