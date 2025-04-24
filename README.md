@@ -14,15 +14,19 @@ Minor in Math
 
 # WORK/VOLUNTEER EXPERIENCE
 ## WORK EXPERIENCE 
-### Research Assistant | Avacare Clinical Research Network (Mar 2024 - Present) <br />
+
+### Product Specialist | Signals (Apr 2025 - Present) <br />
+•	Partnered with sales and marketing teams to strengthen product visibility and market presence <br />
+•	Designed and customized AI chat and voice agents tailored to customer needs <br />
+• Managed marketing strategy for an AI webinar, boosting engagement and expanding audience reach <br />
+
+### Research Assistant | Avacare Clinical Research Network (Mar 2024 - Mar 2025) <br />
 •	Developed and implemented effective recruitment strategies and outreach programs for difficult-to-enroll studies <br />
 •	Successfully increased the enrollment of a study from 50% to 140% of the site’s target goal  <br />
 •	Conducted over 800 meticulous chart reviews to enhance enrollment for challenging studies  <br />
 •	Assisted in the execution and management of 8 clinical research trials at two different clinic sites <br />
 •	Adhered to clinical trial protocols and HIPAA/GCP guidelines <br />
-•	Proficient in data collection, reporting and analysis with Python and Microsoft Excel <br />
-•	Experience with developing and executing 50+ queries in an EMR patient database <br />
-•	Mentored by a Data Research Scientist on data preprocessing, data visualization and data modeling techniques <br />
+•	Clinical experience in obtaining vitals, phlebotomy, and EKGs <br />
 
 ### Medical Scribe | Revere Health (Jun 2023 – Mar 2024)                                                                                                                 
 •	Thorough documentation of patient consultations and medical history <br />
